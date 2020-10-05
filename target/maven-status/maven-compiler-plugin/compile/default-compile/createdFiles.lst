@@ -1,0 +1,7 @@
+com/ttn/elastic/config/ElasticsearchConfig.class
+com/ttn/elastic/service/GreetingService.class
+com/ttn/elastic/entity/Greeting.class
+com/ttn/elastic/Application.class
+com/ttn/elastic/controller/GreetingController.class
+com/ttn/elastic/dao/GreetingRepository.class
+com/ttn/elastic/service/impl/GreetingServiceBean.class
